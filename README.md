@@ -1,6 +1,9 @@
 # scots-codes
 
-A small library with better (Scottish) HTTP status code descriptions.
+[![CI](https://github.com/vanyakosmos/scots-codes/actions/workflows/ci.yml/badge.svg)](https://github.com/vanyakosmos/scots-codes/actions/workflows/ci.yml)
+[![PyPI](https://img.shields.io/pypi/v/scots-codes.svg)](https://pypi.org/project/scots-codes/)
+
+A small library with better status code descriptions.
 
 Inspired by (literally copied from) <https://underwood.network/http/scots.html>.
 
