@@ -1,8 +1,8 @@
 # scots-codes
 
-Little lib that provides reference to better status code descriptions.
+A small library with better (Scottish) HTTP status code descriptions.
 
-Inspired by (litteraly copied from) [underwood.network/http/scots.html](https://underwood.network/http/scots.html).
+Inspired by (literally copied from) <https://underwood.network/http/scots.html>.
 
 ## Installation
 
@@ -77,7 +77,7 @@ setup_scots_errors(
 )
 ```
 
-## Development, packaging and publishing
+## Development, packaging, and publishing
 
 ```bash
 # Install dependencies
