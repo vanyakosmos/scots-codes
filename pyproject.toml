@@ -4,8 +4,8 @@ build-backend = "hatchling.build"
 
 [project]
 name = "scots-codes"
-version = "0.1.0"
-description = "Scottish HTTP status codes based on https://underwood.network/http/scots.html?via=dailydev"
+version = "0.1.1"
+description = "Scottish HTTP Codes"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { file = "LICENSE" }

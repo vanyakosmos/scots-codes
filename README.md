@@ -2,7 +2,7 @@
 
 Little lib that provides reference to better status code descriptions.
 
-Inspired by (litteraly copied from) [underwood.network/http/scots.html](https://underwood.network/http/scots.html)).
+Inspired by (litteraly copied from) [underwood.network/http/scots.html](https://underwood.network/http/scots.html).
 
 ## Installation
 
